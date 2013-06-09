@@ -212,7 +212,7 @@ a:focus {
     width: 900px;
     height: 700px;
     padding: 40px 60px;
-
+    text-align: center;
     background-color: white;
     border: 1px solid rgba(0, 0, 0, .3);
     border-radius: 10px;
