@@ -580,6 +580,11 @@ a:focus {
     I know, it sounds complicated ... maybe it would be easier with the code?
 */
 
+.image-border {
+    border-width: 1px
+}
+
+
 .hint {
     /*
         We hide the hint until presentation is started and from browsers not supporting
@@ -694,7 +699,7 @@ a:focus {
 */
 .impress-enabled          { pointer-events: none }
 .impress-enabled #impress { pointer-events: auto }
-
+.small-font {font-size: 18px; text-align: left;}
 /*
     There is one funny thing I just realized.
 
