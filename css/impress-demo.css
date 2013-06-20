@@ -236,15 +236,24 @@ a:focus {
 .lposition {
     margin-left: -79%;
     margin-top: 10%;
+    font-size: 200%;
 }
 
+.example-postion {
+    margin-top: 10px;
+    margin-left: 20px;
+}
 
 .image-position {
-    margin-left: 51%;
-    margin-top: -33%;
-    width: 46%;
+    margin-left: 59%;
+    margin-top: -12%;
+    width: 42%;
+
 }
 
+.size {
+    font-size: 100px;
+}
 .slide q strong {
     white-space: nowrap;
 }
